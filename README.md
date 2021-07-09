@@ -1,5 +1,4 @@
-# Book-Club
-## Discuss about books
+# Book-Club. Discuss about books
 ## With this app you can discuss on books with people and it’s so much fun, don’t stop trying!
 ### main page
 
